@@ -1,0 +1,4 @@
+pytesseract
+pillow
+ttkbootstrap
+tkinterdnd2
